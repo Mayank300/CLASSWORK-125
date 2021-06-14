@@ -8,7 +8,7 @@ Use pip to install the dependencies
 ```bash
   pip3 install numpy
   
-  pip3 install pamdas
+  pip3 install pandas
   
   pip3 install flask
   
