@@ -1,4 +1,4 @@
-# CLASS-125
+# CLASSWORK-125
 
 
 ## Dependencies to install
