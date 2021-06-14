@@ -52,7 +52,7 @@ Inside `Body/form-data` give a key name as `digit` and choose a image give in th
   
 ## Screenshot Of The Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](output-class-125.png)
 
   
 ## Author
